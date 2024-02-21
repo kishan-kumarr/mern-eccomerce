@@ -31,4 +31,4 @@ CLOUDINARY_API_SECRET
 _fill each filed with your info respectively_
 
 ## Author
-**LinkedIn** Click [Here](https://in.linkedin.com/in/kishan233) **kksharma233**
+**LinkedIn** Click [Here](https://in.linkedin.com/in/kishan233) **kishan233**
